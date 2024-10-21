@@ -2,7 +2,7 @@ import React from 'react';
 
 const HeroSection = () => {
   return (
-    <div className="relative mt-44 mb-40 lg:mb-0 lg:mt-0 h-[93vh] lg:-mb-8 w-full overflow-hidden">
+    <div className="relative mt-44 mb-40 lg:-mb-6 md:mt-0 md:-mb-4 lg:mt-0 h-[93vh]   w-full overflow-hidden">
       {/* YouTube Video Background */}
       <iframe
         className="absolute top-0 left-0 w-full h-full"
